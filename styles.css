@@ -1,0 +1,192 @@
+body
+{
+  text-align: center;
+  background-color: #DFEEEA;
+}
+h2
+{
+  margin-top: 0;
+  color: #5E8B7E;
+  font-size: 4.5rem;
+  font-family: 'Lobster Two', cursive;
+}
+h3
+{
+  color: white;
+  font-size: 1.2rem;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+p
+{
+  color: #2F5D62;
+  font-size: 1.2rem
+}
+.nav-item
+{
+padding: 0 20px 0 20px;
+font-size: 1.2rem;
+}
+
+.vinayimg
+{
+  width: 300px;
+  height: 300px;
+}
+.container-1
+{
+padding-top: 85px;
+padding-bottom: 20px;
+}
+.table-1
+{
+  padding-top: 50px;
+  font-size: 1.2rem;
+}
+
+.Vinaykumar
+{
+  margin-top: 0;
+  margin-bottom: 10px;
+  padding-top: 0;
+}
+.About-Me
+{
+  background-color: #2F5D62;
+  padding: 85px;
+}
+.man
+{
+  width: 250px;
+  height: 250px;
+}
+.p1
+{
+  color:#DFEEEA;
+}
+.qualification-1
+{
+  width:50px;
+  height: 50px;
+  float: left;
+}
+.qualification-2
+{
+  width:50px;
+  height: 50px;
+  float: right;
+}
+.qualificationhead
+{
+  display: inline-block;
+}
+.container-2
+{
+  padding: 85px;
+}
+.skillsimg-1
+{
+  width:50px;
+  height: 50px;
+  float: left;
+}
+.skillsimg-2
+{
+  width:50px;
+  height: 50px;
+  float: right;
+}
+.skillhead
+{
+ display: inline-block;
+}
+.container-4
+{
+    padding: 85px;
+}
+.container-5
+{
+  background-color:black;
+  margin-top: 20px;
+}
+.p2
+{
+color:#DFEEEA;
+}
+.cimg
+{
+  width:25%;
+}
+.javaimg
+{
+  width:25%;
+}
+.htmlimg
+{
+  width:25%;
+}
+
+.cssimg
+{
+  width:25%;
+}
+.container-6
+{
+  background-color: black;
+}
+.windowsimg
+{
+  width:25%;
+}
+.officeimg
+{
+  width:25%;
+}
+.cadimg
+{
+  width:40%;
+}
+.container-6
+{
+  margin: 0;
+  background-color: #2F5D62;
+  padding: 10px;
+}
+.p21
+{
+  color:#DFEEEA;
+  padding-top: 20px;
+}
+.pr
+{
+  color: #2F5D62;
+}
+.navbar-brand
+{
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.table-3
+{
+  text-align: left;
+  font-size: 1.4rem;
+
+}
+
+.table-4
+{
+  text-align: center;
+}
+.table-5
+{
+  text-indent: 100px;
+}
+.vinayvadlapudi123gmail
+{
+  font-size: 1.2rem;
+}
+.contact
+{
+  font-weight: bold;
+  text-decoration: underline;
+}
